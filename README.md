@@ -1,4 +1,4 @@
-[DemoApp.webm](https://github.com/user-attachments/assets/0dd6d9be-45c1-4d29-8f28-91710bd32177)# Basics Code Lab
+# Basics Code Lab
 
 ## Dokumentasi
 Berikut adalah tampilan dari aplikasi Basics Code Lab:
